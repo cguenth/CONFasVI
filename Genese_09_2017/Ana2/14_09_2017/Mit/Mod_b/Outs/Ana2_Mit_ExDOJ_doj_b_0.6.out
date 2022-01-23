@@ -1,0 +1,119 @@
+/home/carla/Documents/DebSim/
+/home/carla/Documents/DebSim/Data/Genese_09_2017/Ana1/14_09_2017/Data/Mit/Mod_b/
+{DataToPlot_Mit_ExDOJ_doj_b_0.6.txt}
+/home/carla/Documents/DebSim/Data/Genese_09_2017/Ana2/14_09_2017/Mit/Mod_b/
+b
+doj
+Eigen
+Package path /home/carla/Documents/DebSim/DebateDynamics/Kernel/init.m
+Loading additional packages...
+
+General::obspkg: PlotLegends` is now obsolete. The legacy version being loaded may conflict with current functionality. See the Compatibility Guide for updating information.
+
+General::obspkg: PlotLegends` is now obsolete. The legacy version being loaded may conflict with current functionality. See the Compatibility Guide for updating information.
+Einzulesende Datei /home/carla/Documents/DebSim/Data/Genese_09_2017/Ana1/14_09_2017/Data/Mit/Mod_b/DataToPlot_Mit_ExDOJ_doj_b_0.6.txt
+Dichte 0.15
+evidenceSize 2
+gesZahlAll 20000
+binCountsFlat {28, 17, 45, 109, 226, 465, 847, 1291, 2281, 2076, 4261, 2990, 1966, 1447, 875, 546, 295, 134, 56, 9, 36}
+evidenceSize 5
+gesZahlAll 20000
+binCountsFlat {274, 41, 85, 174, 291, 521, 902, 1164, 1921, 1422, 4865, 2414, 1744, 1424, 927, 662, 412, 211, 98, 30, 418}
+evidenceSize 10
+gesZahlAll 20000
+binCountsFlat {1166, 18, 97, 92, 270, 484, 1215, 521, 1326, 498, 6665, 1199, 1120, 1600, 670, 555, 367, 169, 59, 9, 1900}
+Dichte 0.2
+evidenceSize 2
+gesZahlAll 20000
+binCountsFlat {41, 29, 99, 174, 318, 550, 934, 1351, 1893, 2070, 3187, 2567, 2112, 1623, 1224, 796, 490, 306, 140, 28, 68}
+evidenceSize 5
+gesZahlAll 20000
+binCountsFlat {362, 82, 149, 246, 436, 627, 900, 1191, 1699, 1517, 3492, 2171, 1843, 1486, 1091, 798, 602, 351, 211, 72, 674}
+evidenceSize 10
+gesZahlAll 20000
+binCountsFlat {1548, 37, 124, 156, 295, 543, 1131, 610, 1260, 506, 5141, 1161, 1190, 1425, 703, 656, 502, 255, 124, 16, 2617}
+Dichte 0.25
+evidenceSize 2
+gesZahlAll 20000
+binCountsFlat {67, 49, 112, 210, 382, 634, 954, 1370, 1731, 1946, 2619, 2267, 1910, 1702, 1347, 1010, 720, 485, 259, 120, 106}
+evidenceSize 5
+gesZahlAll 20000
+binCountsFlat {543, 130, 225, 281, 466, 620, 926, 1186, 1521, 1492, 2763, 1819, 1728, 1484, 1211, 932, 754, 544, 368, 163, 844}
+evidenceSize 10
+gesZahlAll 20000
+binCountsFlat {1989, 59, 155, 173, 333, 534, 1049, 637, 1060, 547, 4094, 1035, 1176, 1386, 690, 712, 601, 332, 165, 39, 3234}
+Dichte 0.3
+evidenceSize 2
+gesZahlAll 20000
+binCountsFlat {100, 91, 190, 301, 471, 686, 846, 1250, 1567, 1758, 2177, 2012, 1884, 1716, 1429, 1134, 918, 639, 446, 246, 139}
+evidenceSize 5
+gesZahlAll 20000
+binCountsFlat {709, 170, 239, 349, 505, 652, 920, 1071, 1354, 1313, 2261, 1672, 1587, 1350, 1216, 1045, 905, 706, 510, 285, 1181}
+evidenceSize 10
+gesZahlAll 20000
+binCountsFlat {2301, 87, 156, 199, 334, 555, 868, 531, 1009, 530, 3426, 916, 1068, 1247, 661, 649, 609, 356, 199, 52, 4247}
+Dichte 0.4
+evidenceSize 2
+gesZahlAll 20000
+binCountsFlat {213, 165, 298, 371, 525, 680, 906, 1053, 1229, 1343, 1653, 1654, 1594, 1466, 1444, 1279, 1160, 1046, 847, 679, 395}
+evidenceSize 5
+gesZahlAll 20000
+binCountsFlat {1178, 232, 325, 386, 506, 608, 776, 850, 1028, 1050, 1704, 1248, 1224, 1136, 1172, 1016, 982, 903, 757, 522, 2397}
+evidenceSize 10
+gesZahlAll 20000
+binCountsFlat {3241, 72, 146, 183, 304, 476, 792, 421, 706, 351, 2532, 580, 803, 1063, 540, 584, 554, 362, 223, 38, 6029}
+Dichte 0.45
+evidenceSize 2
+gesZahlAll 20000
+binCountsFlat {324, 213, 327, 392, 533, 650, 850, 983, 1115, 1237, 1415, 1354, 1447, 1461, 1385, 1326, 1213, 1142, 1030, 935, 668}
+evidenceSize 5
+gesZahlAll 20000
+binCountsFlat {1502, 243, 338, 392, 503, 599, 752, 713, 929, 909, 1432, 1109, 1123, 1100, 1021, 986, 924, 829, 799, 548, 3249}
+evidenceSize 10
+gesZahlAll 20000
+binCountsFlat {3657, 67, 165, 137, 278, 438, 677, 300, 672, 259, 2152, 532, 696, 908, 414, 548, 505, 330, 213, 39, 7013}
+Dichte 0.15
+ abMod b data {2, 0.89105}
+ abMod b data {3, 0.8917}
+ abMod b data {5, 0.899}
+ abMod b data {7, 0.9014}
+ abMod b data {9, 0.9134}
+ abMod b data {10, 0.905}
+Dichte 0.2
+ abMod b data {2, 0.87085}
+ abMod b data {3, 0.8776}
+ abMod b data {5, 0.8875}
+ abMod b data {7, 0.89635}
+ abMod b data {9, 0.88855}
+ abMod b data {10, 0.86915}
+Dichte 0.25
+ abMod b data {2, 0.8471}
+ abMod b data {3, 0.8613}
+ abMod b data {5, 0.8921}
+ abMod b data {7, 0.9047}
+ abMod b data {9, 0.8595}
+ abMod b data {10, 0.8383}
+Dichte 0.3
+ abMod b data {2, 0.84185}
+ abMod b data {3, 0.85305}
+ abMod b data {5, 0.88255}
+ abMod b data {7, 0.8803}
+ abMod b data {9, 0.81765}
+ abMod b data {10, 0.78765}
+Dichte 0.4
+ abMod b data {2, 0.80045}
+ abMod b data {3, 0.83395}
+ abMod b data {5, 0.88015}
+ abMod b data {7, 0.80295}
+ abMod b data {9, 0.7281}
+ abMod b data {10, 0.69855}
+Dichte 0.45
+ abMod b data {2, 0.7877}
+ abMod b data {3, 0.82285}
+ abMod b data {5, 0.83755}
+ abMod b data {7, 0.75205}
+ abMod b data {9, 0.67985}
+ abMod b data {10, 0.64935}
+dreiData {{0.15, 2, 0.89105}, {0.15, 3, 0.8917}, {0.15, 5, 0.899}, {0.15, 7, 0.9014}, {0.15, 9, 0.9134}, {0.15, 10, 0.905}, {0.2, 2, 0.87085}, {0.2, 3, 0.8776}, {0.2, 5, 0.8875}, {0.2, 7, 0.89635}, {0.2, 9, 0.88855}, {0.2, 10, 0.86915}, {0.25, 2, 0.8471}, {0.25, 3, 0.8613}, {0.25, 5, 0.8921}, {0.25, 7, 0.9047}, {0.25, 9, 0.8595}, {0.25, 10, 0.8383}, {0.3, 2, 0.84185}, {0.3, 3, 0.85305}, {0.3, 5, 0.88255}, {0.3, 7, 0.8803}, {0.3, 9, 0.81765}, {0.3, 10, 0.78765}, {0.4, 2, 0.80045}, {0.4, 3, 0.83395}, {0.4, 5, 0.88015}, {0.4, 7, 0.80295}, {0.4, 9, 0.7281}, {0.4, 10, 0.69855}, {0.45, 2, 0.7877}, {0.45, 3, 0.82285}, {0.45, 5, 0.83755}, {0.45, 7, 0.75205}, {0.45, 9, 0.67985}, {0.45, 10, 0.64935}}
+Number of sentences 20
+Korrektheit von E 0.5789473684210527

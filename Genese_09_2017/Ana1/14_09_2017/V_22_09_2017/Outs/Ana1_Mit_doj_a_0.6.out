@@ -1,0 +1,132 @@
+/home/kit/itz/qb3892/DebSim_HC3/
+/home/kit/itz/qb3892/Genese_09_2017/Merged/
+{Data_Acc_0.6.txt}
+/home/kit/itz/qb3892/Genese_09_2017/Ana1/14_09_2017/
+a
+doj
+Mit
+Package path /pfs/data1/home/kit/itz/qb3892/DebSim_HC3/DebateDynamics/Kernel/init.m
+Loading additional packages...
+
+General::obspkg: PlotLegends` is now obsolete. The legacy version being loaded may conflict with current functionality. See the Compatibility Guide for updating information.
+
+Set::write: Tag ListLinePlot in SyntaxInformation[ListLinePlot] is Protected.
+
+General::obspkg: PlotLegends` is now obsolete. The legacy version being loaded may conflict with current functionality. See the Compatibility Guide for updating information.
+Einzulesende Datei /home/kit/itz/qb3892/Genese_09_2017/Merged/Data_Acc_0.6.txt
+Anzahl Dichten 6
+Anzahl Evidenzgrößen 6
+Dichte 0.15
+evidenceSize 2
+evidenceSize 3
+evidenceSize 5
+evidenceSize 7
+evidenceSize 9
+evidenceSize 10
+evidenceSize 2
+Alpha 0.13925 Beta 0.75 DOJC 0.6081
+evidenceSize 3
+Alpha 0.139 Beta 0.75 DOJC 0.6143000000000001
+evidenceSize 5
+Alpha 0.14575 Beta 0.75 DOJC 0.623
+evidenceSize 7
+Alpha 0.14235 Beta 0.75 DOJC 0.6373
+evidenceSize 9
+Alpha 0.14955 Beta 0.75 DOJC 0.65
+evidenceSize 10
+Alpha 0.1645 Beta 0.75 DOJC 0.6667000000000001
+Dichte 0.2
+evidenceSize 2
+evidenceSize 3
+evidenceSize 5
+evidenceSize 7
+evidenceSize 9
+evidenceSize 10
+evidenceSize 2
+Alpha 0.11845 Beta 0.75 DOJC 0.641
+evidenceSize 3
+Alpha 0.11925 Beta 0.75 DOJC 0.6485000000000001
+evidenceSize 5
+Alpha 0.1319 Beta 0.75 DOJC 0.6583
+evidenceSize 7
+Alpha 0.1447 Beta 0.75 DOJC 0.6667000000000001
+evidenceSize 9
+Alpha 0.13925 Beta 0.75 DOJC 0.6761
+evidenceSize 10
+Alpha 0.14255 Beta 0.75 DOJC 0.6875
+Dichte 0.25
+evidenceSize 2
+evidenceSize 3
+evidenceSize 5
+evidenceSize 7
+evidenceSize 9
+evidenceSize 10
+evidenceSize 2
+Alpha 0.09895 Beta 0.75 DOJC 0.6705
+evidenceSize 3
+Alpha 0.10765 Beta 0.75 DOJC 0.6772
+evidenceSize 5
+Alpha 0.1187 Beta 0.75 DOJC 0.6935
+evidenceSize 7
+Alpha 0.1241 Beta 0.75 DOJC 0.7120000000000001
+evidenceSize 9
+Alpha 0.1338 Beta 0.75 DOJC 0.7333000000000001
+evidenceSize 10
+Alpha 0.1448 Beta 0.75 DOJC 0.75
+Dichte 0.3
+evidenceSize 2
+evidenceSize 3
+evidenceSize 5
+evidenceSize 7
+evidenceSize 9
+evidenceSize 10
+evidenceSize 2
+Alpha 0.0934 Beta 0.75 DOJC 0.6984
+evidenceSize 3
+Alpha 0.0993 Beta 0.75 DOJC 0.7077
+evidenceSize 5
+Alpha 0.1089 Beta 0.75 DOJC 0.7331000000000001
+evidenceSize 7
+Alpha 0.11735 Beta 0.75 DOJC 0.7629
+evidenceSize 9
+Alpha 0.13105 Beta 0.75 DOJC 0.8
+evidenceSize 10
+Alpha 0.13125 Beta 0.75 DOJC 0.8333
+Dichte 0.4
+evidenceSize 2
+evidenceSize 3
+evidenceSize 5
+evidenceSize 7
+evidenceSize 9
+evidenceSize 10
+evidenceSize 2
+Alpha 0.07035 Beta 0.75 DOJC 0.7646000000000001
+evidenceSize 3
+Alpha 0.08255 Beta 0.75 DOJC 0.7838
+evidenceSize 5
+Alpha 0.095 Beta 0.75 DOJC 0.8269000000000001
+evidenceSize 7
+Alpha 0.1144 Beta 0.75 DOJC 0.8824000000000001
+evidenceSize 9
+Alpha 0.13615 Beta 0.75 DOJC 1.
+evidenceSize 10
+Alpha 0.1613 Beta 0.75 DOJC 1.
+Dichte 0.45
+evidenceSize 2
+evidenceSize 3
+evidenceSize 5
+evidenceSize 7
+evidenceSize 9
+evidenceSize 10
+evidenceSize 2
+Alpha 0.06375 Beta 0.75 DOJC 0.7994
+evidenceSize 3
+Alpha 0.07495 Beta 0.75 DOJC 0.8199000000000001
+evidenceSize 5
+Alpha 0.09575 Beta 0.75 DOJC 0.875
+evidenceSize 7
+Alpha 0.11505 Beta 0.75 DOJC 0.9787
+evidenceSize 9
+Alpha 0.1642 Beta 0.75 DOJC 1.
+evidenceSize 10
+Alpha 0.1824 Beta 0.75 DOJC 1.
